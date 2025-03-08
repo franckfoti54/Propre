@@ -1,11 +1,2 @@
-TAVILY_API_KEY=...
-
-# To separate your traces from other application
-LANGSMITH_PROJECT=react-agent
-
-# The following depend on your selected configuration
-
-## LLM choice:
-ANTHROPIC_API_KEY=....
-FIREWORKS_API_KEY=...
-OPENAI_API_KEY=...
+TAVILY_API_KEY=...                                                                                          # To separate your traces from other application      LANGSMITH_PROJECT=react-agent
+                                                      # The following depend on your selected configuration                                                       ## LLM choice:                                        #ANTHROPIC_API_KEY=....                               #FIREWORKS_API_KEY=...                                OPENAI_API_KEY=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                                                                                           TAVILY_API_KEY=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                                                                                                          LANGSMITH_API_KEY=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
